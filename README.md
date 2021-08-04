@@ -1,8 +1,37 @@
-- 👋 Hi, I’m @gladson
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# 👋 Bem vindo ao meu repositório...
+## Meu nome é Gladson, fica à vontade:
+
+<div>
+  <a href="https://github.com/gladson">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gladson&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gladson&layout=compact&langs_count=7&theme=dracula&count_private=true"/>
+</div>
+
+
+  ### 👀 Estou interessado em:
+  <a href="https://www.linkedin.com/in/gladson-s-brito/">
+    <img height="30em" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/gladson/">
+    <img height="30em" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  
+  ### 🌱 Atualmente estou aprendendo:
+  <a href="#">
+    <img height="30em" src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
+  </a>
+  <a href="#">
+    <img height="30em" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
+  </a>
+  <a href="#">
+    <img height="30em" src="https://img.shields.io/badge/Elixir-4B275F?style=for-the-badge&logo=elixir&logoColor=white"/>
+  </a>
+  
+  ### 💞️ Estou procurando colaborar em:
+  <a href="url">link text</a>
+  
+  ### 📫 Como chegar até mim:
+  <a href="url">link text</a>
 
 <!---
 gladson/gladson is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
