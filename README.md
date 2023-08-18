@@ -23,9 +23,7 @@
   <a href="#">
     <img height="30em" src="https://img.shields.io/badge/Rust-100000?style=for-the-badge&logo=rust&logoColor=white"/>
   </a>
-  <a href="#">
-    <img height="30em" src="https://img.shields.io/badge/Elixir-4B275F?style=for-the-badge&logo=elixir&logoColor=white"/>
-  </a>
+
 <!---  
   ### 💞️ Estou procurando colaborar em:
   <a href="url">link text</a>
