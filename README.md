@@ -25,6 +25,10 @@
     <img height="30em" src="https://img.shields.io/badge/Rust-100000?style=for-the-badge&logo=rust&logoColor=white"/>
   </a>
 
+  ### 👀 Estou assistindo:
+  [![ninja-kanui](https://img.youtube.com/vi/90whRiEwxnU/0.jpg)](https://www.youtube.com/watch?v=90whRiEwxnU)
+  [![ninja-kanui](https://img.youtube.com/vi/ujv2fLp3lU8/0.jpg)](https://www.youtube.com/watch?v=ujv2fLp3lU8)
+  
 <!---  
   ### 💞️ Estou procurando colaborar em:
   <a href="url">link text</a>
