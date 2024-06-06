@@ -17,14 +17,16 @@
     <img height="30em" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   -->
-  ### 🌱 Atualmente estou aprendendo:
+  ### 🌱 Atualmente estou curtindo:
   <a href="#">
     <img height="30em" src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
   </a>
+  <!-- 
   <a href="#">
     <img height="30em" src="https://img.shields.io/badge/Rust-100000?style=for-the-badge&logo=rust&logoColor=white"/>
   </a>
-
+  -->
+  
   ### 👀 Estou assistindo:
   [![ninja-kanui](https://img.youtube.com/vi/90whRiEwxnU/0.jpg)](https://www.youtube.com/watch?v=90whRiEwxnU)
   [![ninja-kanui](https://img.youtube.com/vi/ujv2fLp3lU8/0.jpg)](https://www.youtube.com/watch?v=ujv2fLp3lU8)
