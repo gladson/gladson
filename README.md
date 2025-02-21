@@ -28,8 +28,11 @@
   -->
   
   ### 👀 Estou assistindo:
-  [![ninja-kanui](https://img.youtube.com/vi/90whRiEwxnU/0.jpg)](https://www.youtube.com/watch?v=90whRiEwxnU)
-  [![ninja-kanui](https://img.youtube.com/vi/ujv2fLp3lU8/0.jpg)](https://www.youtube.com/watch?v=ujv2fLp3lU8)
+  <!-- [![ninja-kanui](https://img.youtube.com/vi/90whRiEwxnU/0.jpg)](https://www.youtube.com/watch?v=90whRiEwxnU)
+  [![solo-leveling](https://img.youtube.com/vi/ujv2fLp3lU8/0.jpg)](https://www.youtube.com/watch?v=ujv2fLp3lU8) -->
+  [![KANA-BOON feat.Takahiro Yamada (ASIAN KUNG-FU GENERATION) – Silhouette / THE FIRST TAKE](https://img.youtube.com/vi/EG057IQHkBs/0.jpg)](https://www.youtube.com/watch?v=EG057IQHkBs)
+  [![Ikimonogakari - Blue Bird / THE FIRST TAKE](https://img.youtube.com/vi/aQystzibMlc/0.jpg)](https://www.youtube.com/watch?v=aQystzibMlc)
+
   
 <!---  
   ### 💞️ Estou procurando colaborar em:
