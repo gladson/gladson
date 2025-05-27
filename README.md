@@ -30,7 +30,7 @@
   ### 👀 Estou assistindo:
   <!-- [![ninja-kanui](https://img.youtube.com/vi/90whRiEwxnU/0.jpg)](https://www.youtube.com/watch?v=90whRiEwxnU)
   [![solo-leveling](https://img.youtube.com/vi/ujv2fLp3lU8/0.jpg)](https://www.youtube.com/watch?v=ujv2fLp3lU8) -->
-  [![KANA-BOON feat.Takahiro Yamada (ASIAN KUNG-FU GENERATION) – Silhouette / THE FIRST TAKE](https://img.youtube.com/vi/EG057IQHkBs/0.jpg)](https://www.youtube.com/watch?v=EG057IQHkBs)
+  [![ゼルダの伝説 オーケストラコンサート [Nintendo Live 2024 TOKYO]](https://img.youtube.com/vi/2nH0Ed-_P8o/0.jpg)](https://www.youtube.com/watch?v=2nH0Ed-_P8o)
   [![FZMZ - BROKEN GAMES (Anime Music Video) ](https://img.youtube.com/vi/X_YHXdCcmVc/0.jpg)](https://youtu.be/X_YHXdCcmVc?si=tq-q8C64Jv01WmpR)
 
 <!---  
