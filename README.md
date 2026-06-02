@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Mulish&size=30&pause=1000&color=19F73B&width=600&lines=E+ai+blz%2C+meu+nome+e+Gladson.;Seja+bem+vindo+ao+meu+perfil+Github.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Mulish&size=30&pause=1000&color=19F73B&width=600&lines=Ol%C3%A1%2C+tudo+bem%3F;Meu+nome+%C3%A9+Gladson%2C+bem-vindo(a)!;Hi%2C+how+are+you%3F;My+name+is+Gladson%2C+welcome!)](https://git.io/typing-svg)
 
 ### 🌱 Atualmente estou curtindo:
 <a href="#">
