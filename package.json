@@ -1,0 +1,15 @@
+{
+  "name": "gladson",
+  "version": "1.0.0",
+  "description": "Gladson Simplício — Senior Software Engineer · Resume & Profile",
+  "private": true,
+  "scripts": {
+    "pdf": "node pdf/generate.js",
+    "serve": "npx serve . -l 3000 --no-clipboard",
+    "build": "npm run pdf"
+  },
+  "devDependencies": {
+    "puppeteer": "^22.0.0",
+    "serve": "^14.2.0"
+  }
+}

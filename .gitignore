@@ -1,0 +1,7 @@
+node_modules/
+pdf/output/*.pdf
+.DS_Store
+*.log
+.specsmd/
+.claude/
+specs/
