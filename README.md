@@ -31,7 +31,7 @@
 ## 🧑‍💻 Sobre Mim
 
 > **Senior Software Engineer** com +10 anos de experiência em arquitetura de software, desenvolvimento full-stack e cloud native.  
-> Especialista em **Python, Go, Node.js** e ecossistema **AWS**, com forte atuação em microsserviços, infraestrutura como código e liderança técnica.  
+> Especialista em **Python, Go, Node.js, Rust** e ecossistema **AWS**, com forte atuação em microsserviços, infraestrutura como código e liderança técnica.  
 > Experiência sólida nos setores **financeiro, seguros e tecnologia** — Itaú, Bradesco, Santander, Bayer, Cognizant.  
 > Certificação **Scrum Master** e metodologias ágeis (Scrum, Kanban).
 
@@ -44,6 +44,8 @@
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
@@ -62,6 +64,7 @@
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=flat-square&logo=svelte&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
 ![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white)
 
@@ -101,10 +104,10 @@
   </picture>
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=gladson&show_icons=true&theme=transparent&hide_border=true&text_color=475569&icon_color=2563EB&title_color=1B2A4A" alt="GitHub Stats">
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gladson&layout=compact&theme=transparent&hide_border=true&text_color=475569&title_color=1B2A4A&size_weight=0.5&count_weight=0.5" alt="Top Languages">
-</p>
+</p> -->
 
 ---
 

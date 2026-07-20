@@ -11,5 +11,9 @@
   "devDependencies": {
     "puppeteer": "^22.0.0",
     "serve": "^14.2.0"
+  },
+  "dependencies": {
+    "three": "^0.160.0",
+    "gsap": "^3.12.0"
   }
 }
