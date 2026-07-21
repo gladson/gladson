@@ -401,7 +401,7 @@
       }
 
       currentView = isResume ? 'cover' : 'resume';
-      label.textContent = isResume ? 'Resume' : 'Cover Letter';
+      label.textContent = isResume ? 'Currículo' : 'Apresentação';
     });
   }
 
