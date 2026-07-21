@@ -84,6 +84,7 @@ body {
   display: flex;
   flex-direction: column;
   justify-content: center;
+  z-index: 1;
 }
 
 .about-box {
@@ -179,7 +180,7 @@ body {
   flex-direction: column;
   position: relative;
   min-height: 420px;
-  z-index: -1;
+  z-index: auto;
 }
 
 .header-photo {
