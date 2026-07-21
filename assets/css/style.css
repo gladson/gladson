@@ -180,7 +180,7 @@ body {
   flex-direction: column;
   position: relative;
   min-height: 420px;
-  z-index: auto;
+  z-index: 0;
 }
 
 .header-photo {
