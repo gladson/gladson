@@ -16,7 +16,7 @@
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
   <a href="https://gladson.github.io/gladson/" target="_blank" rel="noopener">
-    <img src="https://img.shields.io/badge/Résumé_Premium-1B2A4A?style=for-the-badge&logo=readme&logoColor=white" alt="Resume">
+    <img src="https://img.shields.io/badge/Curriculo-1B2A4A?style=for-the-badge&logo=readme&logoColor=white" alt="Resume">
   </a>
 </p>
 
