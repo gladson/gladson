@@ -346,6 +346,7 @@
     const label = document.getElementById('toggle-label');
     const resumeView = document.getElementById('resume-view');
     const coverView = document.getElementById('cover-view');
+    const topContactBar = document.getElementById('top-contact-bar');
 
     if (!toggle || !resumeView || !coverView) return;
 
@@ -368,6 +369,14 @@
             inView.classList.remove('hidden');
             inView.classList.add('active');
 
+            if (topContactBar) {
+              if (isResume) {
+                topContactBar.classList.add('hidden');
+              } else {
+                topContactBar.classList.remove('hidden');
+              }
+            }
+
             gsap.fromTo(inView,
               { opacity: 0, y: -20 },
               {
@@ -379,7 +388,7 @@
             );
 
             // Re-trigger skill bar animations if switching to resume
-            if (isResume) {
+            if (!isResume) { // 'isResume' was the previous state. If switching to resume, previous state was 'cover' (isResume is false)
               const skillFills = resumeView.querySelectorAll('.skill-fill');
               skillFills.forEach((fill) => {
                 const targetWidth = fill.getAttribute('data-width');
@@ -398,6 +407,13 @@
         // Fallback without GSAP
         outView.style.display = 'none';
         inView.style.display = 'block';
+        if (topContactBar) {
+          if (isResume) {
+            topContactBar.classList.add('hidden');
+          } else {
+            topContactBar.classList.remove('hidden');
+          }
+        }
       }
 
       currentView = isResume ? 'cover' : 'resume';
