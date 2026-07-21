@@ -353,83 +353,64 @@
          EXTRA KNOWLEDGE — GDN Project
          ═══════════════════════════════════════ -->
     <div class="extra-section" data-parallax="0.01">
-      <div class="extra-inner">
 
-        <h3 class="section-header">
-          <span class="section-header-icon"></span>
-          Conhecimento Extra — Projeto Pessoal
-        </h3>
+      <h3 class="section-header extra-header">
+        <span class="section-header-icon"></span>
+        Conhecimento Extra — Projeto Pessoal
+      </h3>
 
-        <div class="extra-banner">
-          <div class="extra-banner-text">
-            <span class="extra-banner-name">GDN — Gestão Digital de Negócios</span>
-            <span class="extra-banner-desc">ERP/PDV desktop-first · Offline-first · Tauri 2 + React 19 + Rust</span>
-          </div>
+      <div class="extra-body">
+
+        <div class="extra-project">
+          <span class="extra-project-dot"></span>
+          <strong>GDN — Gestão Digital de Negócios</strong>
+          <span class="extra-project-meta">ERP/PDV desktop-first · Offline-first</span>
         </div>
 
-        <div class="extra-grid">
+        <div class="extra-groups">
 
-          <div class="extra-card">
-            <div class="extra-card-title">Arquitetura</div>
-            <p class="extra-card-text">
-              Clean Architecture + Flat Modules coexistindo no backend Rust.
-              Duas camadas de estado no frontend: TanStack Query (servidor) e Zustand (cliente).
-            </p>
+          <div class="extra-group">
+            <span class="extra-group-label">Backend</span>
+            <div class="extra-group-items">
+              <span class="extra-item">Rust</span>
+              <span class="extra-item">Clean Architecture</span>
+            </div>
           </div>
 
-          <div class="extra-card">
-            <div class="extra-card-title">Desktop Nativo</div>
-            <p class="extra-card-text">
-              Tauri 2 substitui Electron com bundle &lt;10 MB. IPC via commands tipados,
-              sistema ACL para segurança de comandos, plugin system modular.
-            </p>
+          <div class="extra-group">
+            <span class="extra-group-label">Frontend</span>
+            <div class="extra-group-items">
+              <span class="extra-item">React 19</span>
+              <span class="extra-item">TypeScript</span>
+              <span class="extra-item">TanStack Query</span>
+              <span class="extra-item">Zustand</span>
+              <span class="extra-item">Tailwind v4</span>
+              <span class="extra-item">shadcn/ui</span>
+            </div>
           </div>
 
-          <div class="extra-card">
-            <div class="extra-card-title">Sincronização P2P</div>
-            <p class="extra-card-text">
-              Sync offline-first com snapshots genéricos, resolução Last-Write-Wins.
-              Dois canais: P2P via libp2p (mDNS + Noise) e HTTP REST.
-            </p>
+          <div class="extra-group">
+            <span class="extra-group-label">Desktop</span>
+            <div class="extra-group-items">
+              <span class="extra-item">Tauri 2</span>
+              <span class="extra-item">Plugin System</span>
+              <span class="extra-item">IPC Commands</span>
+              <span class="extra-item">SQLite</span>
+              <span class="extra-item">libp2p</span>
+              <span class="extra-item">Vite 6</span>
+            </div>
           </div>
 
-          <div class="extra-card">
-            <div class="extra-card-title">Domínio Fiscal BR</div>
-            <p class="extra-card-text">
-              Integração com SEFAZ (NF-e, NFS-e, NFC-e), CFOP, CSOSN, CRT,
-              regimes tributários e alíquotas interestaduais.
-            </p>
+          <div class="extra-group">
+            <span class="extra-group-label">Domínio</span>
+            <div class="extra-group-items">
+              <span class="extra-item">NF-e / NFS-e</span>
+              <span class="extra-item">SEFAZ</span>
+              <span class="extra-item">Fiscal BR</span>
+              <span class="extra-item">P2P Sync</span>
+            </div>
           </div>
 
-          <div class="extra-card">
-            <div class="extra-card-title">Frontend Moderno</div>
-            <p class="extra-card-text">
-              React 19, TypeScript 5.6, Vite 6, Tailwind CSS 4, shadcn/ui.
-              Hooks customizados, invoke tipado, datas sempre em UTC.
-            </p>
-          </div>
-
-          <div class="extra-card">
-            <div class="extra-card-title">Migração Gradual</div>
-            <p class="extra-card-text">
-              Strangler Pattern: Vue 3 → React 19 módulo a módulo.
-              Convivência controlada até cobertura total.
-            </p>
-          </div>
-
-        </div>
-
-        <div class="extra-tech-row">
-          <span class="extra-tech-badge">Tauri 2</span>
-          <span class="extra-tech-badge">Rust</span>
-          <span class="extra-tech-badge">React 19</span>
-          <span class="extra-tech-badge">TypeScript</span>
-          <span class="extra-tech-badge">SQLite</span>
-          <span class="extra-tech-badge">libp2p</span>
-          <span class="extra-tech-badge">TanStack Query</span>
-          <span class="extra-tech-badge">Zustand</span>
-          <span class="extra-tech-badge">Tailwind v4</span>
-          <span class="extra-tech-badge">shadcn/ui</span>
         </div>
 
       </div>
