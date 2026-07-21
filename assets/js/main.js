@@ -47,9 +47,9 @@
       positions[i * 3 + 2] = (Math.random() - 0.5) * 40;
       sizes[i] = Math.random() * 2 + 0.5;
       velocities.push({
-        x: (Math.random() - 0.5) * 0.02,
-        y: (Math.random() - 0.5) * 0.02,
-        z: (Math.random() - 0.5) * 0.01,
+        x: (Math.random() - 0.5) * 0.01,
+        y: (Math.random() - 0.5) * 0.01,
+        z: (Math.random() - 0.5) * 0.005,
       });
     }
 
@@ -58,7 +58,7 @@
     particleGeometry.setAttribute('size', new THREE.BufferAttribute(sizes, 1));
 
     const particleMaterial = new THREE.PointsMaterial({
-      color: 0xf4d03f,
+      color: 0x38bdf8,
       size: 1.5,
       transparent: true,
       opacity: 0.25,
@@ -72,7 +72,7 @@
     // ─── Geometric Lines (arcs reacting to mouse) ───
     const lines = [];
     const lineMaterial = new THREE.LineBasicMaterial({
-      color: 0xf4d03f,
+      color: 0x38bdf8,
       transparent: true,
       opacity: 0.08,
     });
@@ -193,14 +193,14 @@
       y: 30,
       duration: 0.8,
       delay: 0.2,
-      ease: 'power2.out',
+      ease: 'power3.out',
     });
 
     gsap.from('.role-circle', {
       scale: 0,
       duration: 0.6,
       delay: 0.5,
-      ease: 'back.out(1.7)',
+      ease: 'back.out(1.4)',
     });
 
     gsap.from('.header-name h1', {
@@ -208,7 +208,7 @@
       x: 30,
       duration: 0.8,
       delay: 0.3,
-      ease: 'power2.out',
+      ease: 'power3.out',
     });
 
     gsap.from('.header-name .subtitle', {
@@ -216,7 +216,7 @@
       y: 15,
       duration: 0.6,
       delay: 0.6,
-      ease: 'power2.out',
+      ease: 'power3.out',
     });
 
     // ─── Contact bar ───
@@ -226,7 +226,7 @@
       duration: 0.5,
       stagger: 0.1,
       delay: 0.7,
-      ease: 'power2.out',
+      ease: 'power3.out',
     });
 
     // ─── Timeline items pop-in ───
@@ -239,7 +239,7 @@
           x: 0,
           duration: 0.5,
           delay: 0.8 + i * 0.12,
-          ease: 'power2.out',
+          ease: 'power3.out',
           scrollTrigger: {
             trigger: item,
             start: 'top 85%',
@@ -259,7 +259,7 @@
           opacity: 1,
           duration: 0.5,
           delay: 0.9 + i * 0.12,
-          ease: 'back.out(1.7)',
+          ease: 'back.out(1.4)',
           scrollTrigger: {
             trigger: circle,
             start: 'top 85%',
@@ -279,7 +279,7 @@
           opacity: 1,
           duration: 0.5,
           delay: 1.2 + i * 0.15,
-          ease: 'back.out(1.7)',
+          ease: 'back.out(1.4)',
           scrollTrigger: {
             trigger: circle,
             start: 'top 85%',
@@ -297,7 +297,7 @@
         width: targetWidth + '%',
         duration: 1.2,
         delay: 0.3,
-        ease: 'power2.out',
+        ease: 'power3.out',
         scrollTrigger: {
           trigger: fill,
           start: 'top 90%',
@@ -313,7 +313,7 @@
         opacity: 0,
         x: -15,
         duration: 0.6,
-        ease: 'power2.out',
+        ease: 'power3.out',
         scrollTrigger: {
           trigger: header,
           start: 'top 85%',
@@ -374,7 +374,7 @@
                 opacity: 1,
                 y: 0,
                 duration: 0.4,
-                ease: 'power2.out',
+                ease: 'power3.out',
               }
             );
 
@@ -388,7 +388,7 @@
                   width: targetWidth + '%',
                   duration: 1.2,
                   delay: 0.3,
-                  ease: 'power2.out',
+                  ease: 'power3.out',
                 });
               });
             }
