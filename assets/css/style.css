@@ -708,19 +708,39 @@ body {
   border-bottom: 1.5px solid var(--color-border);
 }
 
-.send-to-item {
+.send-to-list {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+
+.send-to-item-link {
+  display: flex;
+  align-items: center;
+  gap: 10px;
   font-size: 0.82rem;
-  line-height: 1.7;
+  color: var(--color-text-secondary);
+  text-decoration: none;
+  transition: color 0.2s;
+}
+
+.send-to-item-link:hover {
+  color: var(--color-accent-dark);
+}
+
+.send-to-item-link.location-item:hover {
   color: var(--color-text-secondary);
 }
 
-.send-to-item strong {
-  color: var(--color-text);
-  display: block;
-  font-size: 0.75rem;
-  text-transform: uppercase;
-  letter-spacing: 0.05em;
-  margin-bottom: 2px;
+.send-to-item-link svg {
+  width: 16px;
+  height: 16px;
+  flex-shrink: 0;
+  opacity: 0.7;
+}
+
+.send-to-item-link span {
+  word-break: break-all;
 }
 
 /* ══════════════════════════════════════════════
