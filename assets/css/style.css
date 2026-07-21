@@ -732,9 +732,10 @@ body {
   bottom: 30px;
   right: 30px;
   z-index: 100;
-  background: var(--color-primary);
-  color: var(--color-bg);
-  border: 2px solid var(--color-primary);
+  background: var(--color-accent);
+  color: var(--color-primary);
+  border: 2px solid var(--color-accent);
+  border-radius: 30px;
   padding: 12px 24px;
   font-family: var(--font-heading);
   font-size: 0.75rem;
@@ -749,8 +750,8 @@ body {
 }
 
 .view-toggle:hover {
-  background: var(--color-accent);
-  color: var(--color-primary);
+  background: var(--color-primary);
+  color: var(--color-accent);
   border-color: var(--color-accent);
 }
 
